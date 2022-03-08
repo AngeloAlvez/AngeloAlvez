@@ -3,7 +3,7 @@
 <br>
   <h3> 👨🏻‍💻 &nbsp;Sobre mim: </h3>
 
-- 🤔 &nbsp; Desenvolvedor Fullstack em desenvolvimento 
+- 🤓 &nbsp; Desenvolvedor Fullstack em desenvolvimento 
 - 🎓 &nbsp; Bolsista no Programa Desenvolve 2022, do Grupo Boticário em parceria com a Alura
 - ✍️ &nbsp; Interesse também em UX
 - 🌱 &nbsp; Fotógrafo e apaixonado pela calmaria da natureza
@@ -28,9 +28,9 @@
   <br>
   
   <h3> 💻 Próximos objetivos ✔
-    
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ - ⚡   
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 <br>
 ### Contatos:
