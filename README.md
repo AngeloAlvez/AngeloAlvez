@@ -1,5 +1,5 @@
 <h3> Hey devs! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h3><br>
-<h2> Me chamo <em>Angelo Alvez</em>, seja muito bem vindo ao meu GitHub!
+<h4> Me chamo <em>Angelo Alvez</em>, seja muito bem vindo ao meu GitHub!</h4>
 <br>
   <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
