@@ -1,5 +1,5 @@
 <h4> Hey devs! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"></h4><br>
-<h4> Me chamo <em>Angelo Alvez</em>, seja muito bem vindo ao meu GitHub!</h4>
+<h2> Me chamo <strong>Angelo Alvez</srong>, seja muito bem vindo ao meu GitHub!</h2>
 <br>
   <h3> 👨🏻‍💻 &nbsp;Sobre mim: </h3>
 
@@ -25,8 +25,10 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  <br>
   
   <h3> 💻 Próximos objetivos ✔️
+  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
