@@ -28,9 +28,9 @@
   <br>
   
   <h3> 💻 Próximos objetivos ✔
- - ⚡   
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  
+ - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ⚡
+ - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ⚡
 
 <br>
 ### Contatos:
