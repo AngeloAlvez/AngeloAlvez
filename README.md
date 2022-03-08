@@ -29,11 +29,13 @@
   
   <h3> 💻 Próximos objetivos ✔
   
- - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ⚡
- - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ⚡
-
+ - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
+ - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
 <br>
-### Contatos:
+  
+  Não seja tímido, manda uma mensagem aí!
+
+- 📱 Você me acha também por aqui:
 
 <div>
 <a href="https://instagram.com/angelo.alvez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
