@@ -28,11 +28,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   <br>
   
-  <h3> 💻 Próximos objetivos ✔
-  
- - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
- 
-<br>
   
   Não seja tímido, manda uma mensagem aí!
 
