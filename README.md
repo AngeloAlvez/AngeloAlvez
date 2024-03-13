@@ -4,8 +4,7 @@
   <h3> 👨🏻‍💻 &nbsp;Sobre mim: </h3>
 
 - 🤓 &nbsp; Desenvolvedor Frontend 
-- 🎓 &nbsp; Bolsista no Programa Desenvolve 2022, do Grupo Boticário em parceria com a Alura e Labenu
-- ✍️ &nbsp; Interesse também em UX
+- 💼 &nbsp; Grupo Boticário 
 - 🌱 &nbsp; Fotógrafo e apaixonado pela calmaria da natureza
 
 <h3> 🛠 &nbsp;Techs ❤️</h3>
